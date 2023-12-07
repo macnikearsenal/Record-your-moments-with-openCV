@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 import speech_recognition as sr
 import threading
@@ -125,3 +126,6 @@ while(1):
 # pygame.quit()
 
 
+=======
+print("hellow word")
+>>>>>>> 2db71f7b7cf7c270c76640a7111037b5e86a3039
