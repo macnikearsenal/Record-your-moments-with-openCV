@@ -3,10 +3,11 @@ import pygame
 import pygame.camera
 
 
-#메인 함수 시작
-
 num = 1
 while True:
+    print("준비중 ...")
+
+
     r = sr.Recognizer()
     with sr.Microphone() as source:
         r.adjust_for_ambient_noise(source, duration=5)
