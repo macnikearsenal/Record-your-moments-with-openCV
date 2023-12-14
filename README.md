@@ -30,7 +30,7 @@
 ---
 
 
-### Team Name : LKCP [we are 
+### Team Name : LKCP 
 #### We are affiliated with Open Source Team#15
 
 * **실내건축학과 201933450 박상원**  
