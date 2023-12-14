@@ -32,6 +32,7 @@ Here is how to run the code:
 
 ```bash
 python your_file_name.py
+```
 
 
 *picture of cinema which you see with saying 'hello'*
