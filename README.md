@@ -1,12 +1,38 @@
 ## Record-your-moments-with-openCV
 
-
+This project implements a voice-controlled video player and image capture using Python.
 ---
 
 # record your moments when you say hello to your computer while seeing a clip.
 
 <br>
 <br>
+
+## **Features**
+
+- Recognizes user's voice and plays a different video when specific words are detected.
+- If the user says "hello," it plays `countdown.mp4` and captures an image using the camera.
+- Displays the video on the screen using pygame and OpenCV and saves the captured images.
+
+## **Requirements**
+
+- Python 3.x
+- Libraries such as `speech_recognition`, `pygame`, `pygame.camera`, `opencv-python` are required.
+
+## **Usage**
+
+1. Clone the repository.
+2. Install necessary libraries.
+3. Run the code with Python.
+4. Test the functionality by using words you want to control with voice.
+
+## **Usage Example**
+
+Here is how to run the code:
+
+```bash
+python your_file_name.py
+
 
 *picture of cinema which you see with saying 'hello'*
 --
