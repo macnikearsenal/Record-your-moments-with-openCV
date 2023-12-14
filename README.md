@@ -1,11 +1,10 @@
 ## Record-your-moments-with-openCV
 
-This project implements a voice-controlled video player and image capture using Python.
----
+###### This project implements a voice-controlled video player and image capture using Python.
 
-# record your moments when you say hello to your computer while seeing a clip.
+# record your precious moments
 
-<br>
+###### with saying 'hello'
 <br>
 
 ## **Features**
