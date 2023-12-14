@@ -3,6 +3,14 @@ import pygame
 import pygame.camera
 
 
+
+
+
+global user_speak
+user_speak = "None"
+num = 1
+
+
 num = 1
 while True:
     print("준비중 ...")
