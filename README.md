@@ -4,13 +4,13 @@
 
 # record your precious moments
 
-1. When you run, the video open
+1. When you run the program, the video open
 ![Cinema](https://i.imgur.com/FUlgnxl.jpg)
 2. When Terminal prints "say something"(or count 5seconds)
 3. You say "Hello",and the count-down video pops up and take your precious moment.
 ![Countdown](https://i.imgur.com/lmURrtL.png)
 4. Your precious moments are saved in the image folder
-
+![Image](https://i.imgur.com/Z3UNd2m.jpg)
 
 ###### with saying 'hello'
 <br>
