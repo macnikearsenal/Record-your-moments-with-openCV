@@ -1,6 +1,6 @@
 ## Record-your-moments-with-openCV
 
-###### This project implements a voice-controlled video player and image capture using Python.
+###### This project implements a voice-controlled video player and image capture using Python.Play video using voice recognition.
 
 # record your precious moments
 
